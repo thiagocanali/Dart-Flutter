@@ -1,7 +1,7 @@
 # LearningFlutter
 24/06/2022 - iniciando os Flutterestudos
 
-extensoes vscode:
+extensões vscode:
 - dart
 - flutter
 - code runner
